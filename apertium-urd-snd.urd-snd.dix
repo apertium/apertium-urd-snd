@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <dictionary>
    <!-- Define the alphabet below. -->
-  <alphabet>aAáÁăảạÆbBcCčdDÐeEéèễệfFgGhHiIíjJkKlLmMnNoOóöớpPqQrRsSšştTŢuUúüưvVwWxXyYzZ</alphabet>
+  <alphabet></alphabet>
 
   <sdefs>
     <sdef n="cnjadv"    c=""/>
@@ -13,6 +13,9 @@
     <sdef n="n"    c=""/>
     <sdef n="f"    c=""/>
     <sdef n="m"    c=""/>
+    <sdef n="sent"    c=""/>
+    <sdef n="coma"    c=""/>
+    <sdef n="cm"    c=""/>
   </sdefs>
 
    <section id="main" type="standard">
@@ -1590,6 +1593,13 @@
     <e><p><l>باہر<s n="adv"/></l><r>ٻاهر<s n="adv"/></r></p></e>
 
     <!-- SECTION: Verbs -->
+
+    <!-- SECTION: Punctuation -->
+
+    <e><re>[؟؛.!۔]</re><p><l><s n="sent"/></l><r><s n="sent"/></r></p></e>
+    <e><re>[,،]</re><p><l><s n="coma"/></l><r><s n="cm"/></r></p></e>
+
+
 
    </section>
 </dictionary>
