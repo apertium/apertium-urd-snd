@@ -11,6 +11,8 @@
     <sdef n="adj"    c=""/>
     <sdef n="adv"    c=""/>
     <sdef n="n"    c=""/>
+    <sdef n="f"    c=""/>
+    <sdef n="m"    c=""/>
   </sdefs>
 
    <section id="main" type="standard">
