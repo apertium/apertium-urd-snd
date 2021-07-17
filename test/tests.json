@@ -1,0 +1,10 @@
+{
+    "snd-urd-pending": {
+        "input": "snd-urd-pending-input.txt",
+        "mode": "snd-urd"
+    },
+    "urd-snd-pending": {
+        "input": "urd-snd-pending-input.txt",
+        "mode": "urd-snd"
+    }
+}

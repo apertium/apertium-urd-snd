@@ -1,0 +1,14 @@
+[CUJEU3viVdA6#0] ^هوء/*هوء$ ^خش/*خش$ ^هُئي/*هُئي$
+[/CUJEU3viVdA6]
+[I0elMAglw8QY#0] ^رام/*رام$ ^هڪ/*هڪ$ ^سٺو/سٺو<adj><m><sg><nom>/سٺو<adj><m><sg><obl>/سٺو<adj><m><pl><nom>/سٺو<adj><m><pl><obl>/سٺو<adj><f><sg><nom>/سٺو<adj><f><sg><obl>/سٺو<adj><f><pl><nom>/سٺو<adj><f><pl><obl>$ ^ڇوڪرو/ڇوڪر<n><m><sg><nom>$ ^آهي/*آهي$
+[/I0elMAglw8QY]
+[MpkE2U7rNn-3#0] ^ڏه/*ڏه$ ^منٽ/*منٽ$
+[/MpkE2U7rNn-3]
+[bqNeuzKy5p4w#0] ^هي/*هي$ ^گھڙي/*گھڙي$ ^آهي/*آهي$
+[/bqNeuzKy5p4w]
+[iHDEyWZDmZWj#0] ^مان/*مان$ ^ڪٿي/ڪٿي<adv>$ ^آهيان/*آهيان$ ^؟/؟<sent>$
+[/iHDEyWZDmZWj]
+[uCywoqugCU01#0] ^ڇا/*ڇا$ ^تون/*تون$ ^هندي/*هندي$ ^گالهئيندو/*گالهئيندو$ ^آھين/*آھين$^؟/؟<sent>$
+[/uCywoqugCU01]
+[zOtB2j7yQ-6P#0] ^هو/*هو$ ^قلم/قلم<n><f><sg><nom>/قلم<n><f><sg><obl>/قلم<n><f><pl><nom>/قلم<n><f><pl><obl>$ ^آهي/*آهي$
+[/zOtB2j7yQ-6P]

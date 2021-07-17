@@ -1,0 +1,22 @@
+[04Oip4WzUoqk#0] ^*دس$ ^*منٹ$
+[/04Oip4WzUoqk]
+[7lSqDBz0Pv_I#0] ^*وہ$ ^خوش<adj><m><sg><nom>$ ^*تھی$
+[/7lSqDBz0Pv_I]
+[KZkXlRNz0Ezl#0] ^*برتن$ ^*میں$ ^*انڈے$
+[/KZkXlRNz0Ezl]
+[MBdbiMW5YZ8Q#0] ^*یہ$ ^احتجاج<n><m><sg><nom>$ ^*پرامن$ ^*تھا$ ^۔<sent>$
+[/MBdbiMW5YZ8Q]
+[MFXNovwIeDdT#0] ?^*میں$ ^کہاں<adv><itg>$ ^*ہوں$
+[/MFXNovwIeDdT]
+[UYWADjOIZe7W#0] ^*یہ$ ^*گھڑی$ ^*ہے$
+[/UYWADjOIZe7W]
+[coMy-U5Hluvr#0] ^*وہ$ ^قلم<n><f><sg><nom>$ ^*ہے$
+[/coMy-U5Hluvr]
+[en0DlpagyLNE#0] ^*رام$ ^*ایک$ ^اچھا<adj><m><sg><nom>$ ^لڑکا<n><m><sg><nom>$ ^*ہے$
+[/en0DlpagyLNE]
+[g1w9D8vVcmTz#0] ?^*کیا$ ^*تم$ ^*ہندی$ ^*بولتے$ ^*ہو$
+[/g1w9D8vVcmTz]
+[imxiNRz91Dp-#0] ^*ان$ ^*جي$ ^*ڊيگھ$ ^*142$ ^*فٽ$ ۽ ^*ويڪر$ ^*14$ ^*فٽ$ ^*هئي$
+[/imxiNRz91Dp-]
+[xSAwvey-Mwxc#0] ^گھر<n><m><sg><nom>$ ^*کے$ ^اندر<adv>$
+[/xSAwvey-Mwxc]

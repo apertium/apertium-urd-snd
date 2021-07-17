@@ -1,0 +1,22 @@
+[04Oip4WzUoqk#0] ^unknown<unknown>{^*دس$}$ ^unknown<unknown>{^*منٹ$}$
+[/04Oip4WzUoqk]
+[7lSqDBz0Pv_I#0] ^unknown<unknown>{^*وہ$}$ ^default<default>{^خوش<adj><m><sg><nom>$}$ ^unknown<unknown>{^*تھی$}$
+[/7lSqDBz0Pv_I]
+[KZkXlRNz0Ezl#0] ^unknown<unknown>{^*برتن$}$ ^unknown<unknown>{^*میں$}$ ^unknown<unknown>{^*انڈے$}$
+[/KZkXlRNz0Ezl]
+[MBdbiMW5YZ8Q#0] ^unknown<unknown>{^*یہ$}$ ^default<default>{^احتجاج<n><m><sg><nom>$}$ ^unknown<unknown>{^*پرامن$}$ ^unknown<unknown>{^*تھا$}$ ^sent<SENT>{^۔<sent>$}$
+[/MBdbiMW5YZ8Q]
+[MFXNovwIeDdT#0] ?^unknown<unknown>{^*میں$}$ ^default<default>{^ڪٿي<adv><itg>$}$ ^unknown<unknown>{^*ہوں$}$
+[/MFXNovwIeDdT]
+[UYWADjOIZe7W#0] ^unknown<unknown>{^*یہ$}$ ^unknown<unknown>{^*گھڑی$}$ ^unknown<unknown>{^*ہے$}$
+[/UYWADjOIZe7W]
+[coMy-U5Hluvr#0] ^unknown<unknown>{^*وہ$}$ ^default<default>{^قلم<n><f><sg><nom>$}$ ^unknown<unknown>{^*ہے$}$
+[/coMy-U5Hluvr]
+[en0DlpagyLNE#0] ^unknown<unknown>{^*رام$}$ ^unknown<unknown>{^*ایک$}$ ^default<default>{^سٺو<adj><m><sg><nom>$}$ ^default<default>{^ڇوڪر<n><m><sg><nom>$}$ ^unknown<unknown>{^*ہے$}$
+[/en0DlpagyLNE]
+[g1w9D8vVcmTz#0] ?^unknown<unknown>{^*کیا$}$ ^unknown<unknown>{^*تم$}$ ^unknown<unknown>{^*ہندی$}$ ^unknown<unknown>{^*بولتے$}$ ^unknown<unknown>{^*ہو$}$
+[/g1w9D8vVcmTz]
+[imxiNRz91Dp-#0] ^unknown<unknown>{^*ان$}$ ^unknown<unknown>{^*جي$}$ ^unknown<unknown>{^*ڊيگھ$}$ ^unknown<unknown>{^*142$}$ ^unknown<unknown>{^*فٽ$}$ ۽ ^unknown<unknown>{^*ويڪر$}$ ^unknown<unknown>{^*14$}$ ^unknown<unknown>{^*فٽ$}$ ^unknown<unknown>{^*هئي$}$
+[/imxiNRz91Dp-]
+[xSAwvey-Mwxc#0] ^default<default>{^گهر<n><m><sg><nom>$}$ ^unknown<unknown>{^*کے$}$ ^default<default>{^اندر<adv>$}$
+[/xSAwvey-Mwxc]

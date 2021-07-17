@@ -1,0 +1,14 @@
+[CUJEU3viVdA6#0] ^*هوء$ ^*خش$ ^*هُئي$
+[/CUJEU3viVdA6]
+[I0elMAglw8QY#0] ^*رام$ ^*هڪ$ ^اچھا<adj><m><sg><nom>$ ^لڑکا<n><m><sg><nom>$ ^*آهي$
+[/I0elMAglw8QY]
+[MpkE2U7rNn-3#0] ^*ڏه$ ^*منٽ$
+[/MpkE2U7rNn-3]
+[bqNeuzKy5p4w#0] ^*هي$ ^*گھڙي$ ^*آهي$
+[/bqNeuzKy5p4w]
+[iHDEyWZDmZWj#0] ^*مان$ ^کہاں<adv>$ ^*آهيان$ ^؟<sent>$
+[/iHDEyWZDmZWj]
+[uCywoqugCU01#0] ^*ڇا$ ^*تون$ ^*هندي$ ^*گالهئيندو$ ^*آھين$^؟<sent>$
+[/uCywoqugCU01]
+[zOtB2j7yQ-6P#0] ^*هو$ ^قلم<n><f><sg><nom>$ ^*آهي$
+[/zOtB2j7yQ-6P]

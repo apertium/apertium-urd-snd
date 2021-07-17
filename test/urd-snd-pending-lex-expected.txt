@@ -1,0 +1,22 @@
+[04Oip4WzUoqk#0] ^*دس/*دس$ ^*منٹ/*منٹ$
+[/04Oip4WzUoqk]
+[7lSqDBz0Pv_I#0] ^*وہ/*وہ$ ^خوش<adj><m><sg><nom>/خوش<adj><m><sg><nom>$ ^*تھی/*تھی$
+[/7lSqDBz0Pv_I]
+[KZkXlRNz0Ezl#0] ^*برتن/*برتن$ ^*میں/*میں$ ^*انڈے/*انڈے$
+[/KZkXlRNz0Ezl]
+[MBdbiMW5YZ8Q#0] ^*یہ/*یہ$ ^احتجاج<n><m><sg><nom>/احتجاج<n><m><sg><nom>$ ^*پرامن/*پرامن$ ^*تھا/*تھا$ ^۔<sent>/۔<sent>$
+[/MBdbiMW5YZ8Q]
+[MFXNovwIeDdT#0] ?^*میں/*میں$ ^کہاں<adv><itg>/ڪٿي<adv><itg>/ڪيڏاهن<adv><itg>$ ^*ہوں/*ہوں$
+[/MFXNovwIeDdT]
+[UYWADjOIZe7W#0] ^*یہ/*یہ$ ^*گھڑی/*گھڑی$ ^*ہے/*ہے$
+[/UYWADjOIZe7W]
+[coMy-U5Hluvr#0] ^*وہ/*وہ$ ^قلم<n><f><sg><nom>/قلم<n><f><sg><nom>$ ^*ہے/*ہے$
+[/coMy-U5Hluvr]
+[en0DlpagyLNE#0] ^*رام/*رام$ ^*ایک/*ایک$ ^اچھا<adj><m><sg><nom>/سٺو<adj><m><sg><nom>$ ^لڑکا<n><m><sg><nom>/ڇوڪر<n><m><sg><nom>$ ^*ہے/*ہے$
+[/en0DlpagyLNE]
+[g1w9D8vVcmTz#0] ?^*کیا/*کیا$ ^*تم/*تم$ ^*ہندی/*ہندی$ ^*بولتے/*بولتے$ ^*ہو/*ہو$
+[/g1w9D8vVcmTz]
+[imxiNRz91Dp-#0] ^*ان/*ان$ ^*جي/*جي$ ^*ڊيگھ/*ڊيگھ$ ^*142/*142$ ^*فٽ/*فٽ$ ۽ ^*ويڪر/*ويڪر$ ^*14/*14$ ^*فٽ/*فٽ$ ^*هئي/*هئي$
+[/imxiNRz91Dp-]
+[xSAwvey-Mwxc#0] ^گھر<n><m><sg><nom>/گهر<n><m><sg><nom>$ ^*کے/*کے$ ^اندر<adv>/اندر<adv>$
+[/xSAwvey-Mwxc]

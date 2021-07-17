@@ -1,0 +1,14 @@
+[CUJEU3viVdA6#0] ^unknown<unknown>{^*هوء$}$ ^unknown<unknown>{^*خش$}$ ^unknown<unknown>{^*هُئي$}$
+[/CUJEU3viVdA6]
+[I0elMAglw8QY#0] ^unknown<unknown>{^*رام$}$ ^unknown<unknown>{^*هڪ$}$ ^default<default>{^اچھا<adj><m><sg><nom>$}$ ^default<default>{^لڑکا<n><m><sg><nom>$}$ ^unknown<unknown>{^*آهي$}$
+[/I0elMAglw8QY]
+[MpkE2U7rNn-3#0] ^unknown<unknown>{^*ڏه$}$ ^unknown<unknown>{^*منٽ$}$
+[/MpkE2U7rNn-3]
+[bqNeuzKy5p4w#0] ^unknown<unknown>{^*هي$}$ ^unknown<unknown>{^*گھڙي$}$ ^unknown<unknown>{^*آهي$}$
+[/bqNeuzKy5p4w]
+[iHDEyWZDmZWj#0] ^unknown<unknown>{^*مان$}$ ^default<default>{^کہاں<adv>$}$ ^unknown<unknown>{^*آهيان$}$ ^sent<SENT>{^؟<sent>$}$
+[/iHDEyWZDmZWj]
+[uCywoqugCU01#0] ^unknown<unknown>{^*ڇا$}$ ^unknown<unknown>{^*تون$}$ ^unknown<unknown>{^*هندي$}$ ^unknown<unknown>{^*گالهئيندو$}$ ^unknown<unknown>{^*آھين$}$^sent<SENT>{^؟<sent>$}$
+[/uCywoqugCU01]
+[zOtB2j7yQ-6P#0] ^unknown<unknown>{^*هو$}$ ^default<default>{^قلم<n><f><sg><nom>$}$ ^unknown<unknown>{^*آهي$}$
+[/zOtB2j7yQ-6P]
